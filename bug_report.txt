@@ -1,1 +1,9 @@
-
+Summary: The gift card price is lower than the card's sum at the homepage
+Priority: Highest
+Severity: Trivial
+Environment: "Chrome 98
+STR:
+1. Open the front end
+2. Observe the homepage
+AR: The gift card price is 45 the gift sum is 50
+ER: Both prices should be the same
